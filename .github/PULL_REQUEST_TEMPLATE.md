@@ -1,4 +1,7 @@
-#PR Type -Features -Bug Fix -Documentation
+# PR Type 
+- Features 
+- Bug Fix 
+- Documentation
 - dd
 
 # Description
